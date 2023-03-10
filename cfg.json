@@ -1,0 +1,266 @@
+{
+    "current_profile": "default",
+    "profiles": {
+        "default": {
+            "Auto Seelie": {
+                "ElectroSeelie": true,
+                "Enabled": {
+                    "toggled": false,
+                    "value": null
+                }
+            },
+            "AutoChallenge": {
+                "Enabled": {
+                    "toggled": false,
+                    "value": null
+                },
+                "Range": 300.0
+            },
+            "AutoLoot": {
+                "AutoTreasure": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Chest": true,
+                "CustomRange": 30.0,
+                "Investigate": true,
+                "Others": true,
+                "QuestInteract": true,
+                "UseCustomRange": {
+                    "toggled": true,
+                    "value": null
+                },
+                "UseDelayTimeFluctuation": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "AutoTalk": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "FastDialog": {
+                    "toggled": true,
+                    "value": null
+                },
+                "ToggleHotkey": 20
+            },
+            "ChestTeleport": {
+                "Key": 187
+            },
+            "ESP": {
+                "DrawBoxMode": {
+                    "name": "Box",
+                    "value": 2
+                },
+                "DrawDistance": true,
+                "DrawHealth": true,
+                "DrawName": true,
+                "DrawTracerMode": {
+                    "name": "Line",
+                    "value": 1
+                },
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Fill": true,
+                "GlobalBoxColor": {
+                    "toggled": true,
+                    "value": 4278190335
+                },
+                "GlobalFontColor": {
+                    "toggled": true,
+                    "value": 4294506744
+                },
+                "GlobalLineColor": {
+                    "toggled": true,
+                    "value": 4278336528
+                },
+                "GlobalRectColor": {
+                    "toggled": true,
+                    "value": 4278250991
+                },
+                "HideCompleted": true,
+                "MiddleScreenTracer": true,
+                "Range": 200.0
+            },
+            "General": {
+                "FPS": {
+                    "FpsMove": true
+                },
+                "SelectedModule": 4
+            },
+            "InfiniteStamina": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "PacketReplacement": true
+            },
+            "InteractiveMap": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "ShowCompleted": true
+            },
+            "KillAura": {
+                "DamageMode": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "PercentDamageMode": {
+                    "toggled": true,
+                    "value": null
+                },
+                "PercentDamageTimes": 10
+            },
+            "MapTeleport": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "NoCD": {
+                "AbilityReduce": {
+                    "toggled": true,
+                    "value": null
+                },
+                "InstantBow": {
+                    "toggled": true,
+                    "value": null
+                },
+                "UtimateMaxEnergy": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "NoClip": {
+                "Enabled": {
+                    "toggled": false,
+                    "value": 45
+                }
+            },
+            "OculiTeleport": {
+                "Key": 189
+            },
+            "QuestTeleport": {
+                "Key": 222,
+                "QuestTP": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "RapidFire": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "MultiHit": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Randomize": {
+                    "toggled": true,
+                    "value": null
+                },
+                "minMultiplier": 2
+            },
+            "SkinModifier": {
+                "Ayaka_SpringbloomMissive": true,
+                "Diluc_RedDeadOfNight": true,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Keqing_OpulentSplendor": true,
+                "Qin_SeaBreezeDandelion": true
+            },
+            "SkipEnhanceAnimation": {
+                "Enabled": true,
+                "ShowLevelUp": false
+            },
+            "Visuals": {
+                "AnimationChanger": {
+                    "Enabled": {
+                        "toggled": false,
+                        "value": null
+                    }
+                },
+                "ProfileChanger": {
+                    "Enabled": {
+                        "toggled": false,
+                        "value": null
+                    }
+                }
+            }
+        }
+    },
+    "shared": {
+        "InteractiveMap": {
+            "LastUserID": 815420152,
+            "accounts": {
+                "815420152": {
+                    "completed_points": {
+                        "3": {
+                            "17": [
+                                {
+                                    "complete_timestamp": 1678329017381,
+                                    "point_id": 12317
+                                },
+                                {
+                                    "complete_timestamp": 1678071604650,
+                                    "point_id": 28821
+                                },
+                                {
+                                    "complete_timestamp": 1678071594584,
+                                    "point_id": 28823
+                                },
+                                {
+                                    "complete_timestamp": 1678071265505,
+                                    "point_id": 28824
+                                },
+                                {
+                                    "complete_timestamp": 1678071265917,
+                                    "point_id": 28825
+                                },
+                                {
+                                    "complete_timestamp": 1678327695319,
+                                    "point_id": 41994
+                                }
+                            ],
+                            "403": [
+                                {
+                                    "complete_timestamp": 1678327708011,
+                                    "point_id": 41843
+                                }
+                            ],
+                            "45": [
+                                {
+                                    "complete_timestamp": 1678329190989,
+                                    "point_id": 13378
+                                },
+                                {
+                                    "complete_timestamp": 1678071903545,
+                                    "point_id": 28764
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "PatternScanner": {
+            "m_CheckSumTimestamp": {
+                "UnityPlayer.dll": 133214386520000000,
+                "UserAssembly.dll": 133214386520000000
+            }
+        }
+    }
+}
